@@ -10,7 +10,7 @@ With the specific application asking whether certain canal docks would be viable
 sake of restoring oyster reefs. This can be aided by utilizing old oyster shells as
 a base or substrate for new oysters to attach to. Oyster reefs provide important
 ecosystem services, such as water filtration and habitat for many organisms.
-Unfortunately, they are in decline globally. The specific variables related to
+Unfortunately, they are in decline globally. If we are able to identify the ideal conditions for growing spat, further efforts to raise and relocate oysters for the sake of resoration could be achieved. The specific variables related to
 water conditions that were focused on based on prior research indicating their
 importance in oyster development include
 * Temperature
@@ -23,6 +23,8 @@ condition’s relationship with both the settlement and growth rate of the oyste
 If possible I would be interested in also running some form of statistical test to
 determine whether any trends are statistically significant, given that the data
 set is somewhat limited.
+## Data
+Water data was collected utilizing a YSI probe and measurement data was collected directly into an excel. The excel sheet containing spat counts and average size per string has been converted into a text file.
 ## Methods
 The experiment was run with the assistance of ten dock owners
 who allowed us to utilize their property as sites. For each site, three strings
