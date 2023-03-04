@@ -37,3 +37,9 @@ everything was collected does not line up with how it should be processed.
 * I will have to do some research into statistical tests, in order to determine
 how I should approach them for this project.
 * Begin graphing the reorganized data
+
+
+
+
+
+I am having trouble getting everything from my fastX browser to send over to git.
