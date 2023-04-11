@@ -33,15 +33,10 @@ property into a canal. Every two weeks, the water at each site was tested and
 the strings collected. After collection, we counted and measured the diameter of
 each young oyster on each string and then returned them to the sites. All data
 was recorded in a series of excel documents.
-## Steps Going Forward
-* To begin with I will likely need to reorganize the collected data. The way
-everything was collected does not line up with how it should be processed.
-* I will have to do some research into statistical tests, in order to determine
-how I should approach them for this project.
-* Begin graphing the reorganized data
+## Results
 
+![Screen Shot 2023-04-10 at 8 31 37 PM](https://user-images.githubusercontent.com/125240185/231032063-2dcab6e2-a28e-4554-9690-ea40181a450d.png)
 
+Green indicates Chlorophyll level, Blue Dissolved Oxygen, Purple Salinty, and Red Temperature
+## Discussion
 
-
-
-I am having trouble getting everything from my fastX browser to send over to git.
