@@ -32,11 +32,22 @@ consisting of 30 old oyster shells were constructed and hung off the side of the
 property into a canal. Every two weeks, the water at each site was tested and
 the strings collected. After collection, we counted and measured the diameter of
 each young oyster on each string and then returned them to the sites. All data
-was recorded in a series of excel documents.
+was recorded in a series of excel documents. Excel data was wrangled in Rstudio, averages were taken to account for replicates and spat measurements and water quality data were merged.
 ## Results
 
-![Screen Shot 2023-04-10 at 8 31 37 PM](https://user-images.githubusercontent.com/125240185/231032063-2dcab6e2-a28e-4554-9690-ea40181a450d.png)
+![graph one](Settlement_by_Chl.png)
+![graph two](Settlement_by_DO.png)
+![graph three](Settlement_by_Sal.png)
+![graph four](Settlement_by_Temp.png)
+Each graph plots the amount of spat counted at each site by one of the four water variables. Size of the dots reflects the average size of the spat.
+## Discussion/Conclusions
+The data shows the following general trends:
+* Oyster spat favor lower amounts of chlorophyll, this is expected as chlorphyll is an indicator of algae, which creates dead zones in excessive quantities.
+* Spat favor a middle range of dissolved oxygen content, I hypothesize that this is due to having to compete with other organisms for space in high oxygen environments.
+* Spat favor higher salinity, although it should be noted that the range of values is very small.
+* Spat favor middle range temperatures, though again the range is very small.
+It should be generally noted with all of these however, firstly; this experiment was done for only 4 biweekly check-ins, a very small sample size that likely is not statistically significant. And secondly, the size measurements are not wholly reflective of any trends as they primarily represent growth over time.
 
-Green indicates Chlorophyll level, Blue Dissolved Oxygen, Purple Salinty, and Red Temperature
-## Discussion
+## Reflection
 
+This project was challenging to be me, primarily from the basis that I am very inexperienced when it comes to coding and tools like git hub. I believe I have learned about many tools that will be beneficial for my research career going forward. Particularly in terms of better organization, that likely would have helped when I was conducting this experiment over the summer. I certainly would have organized the initial data collection much differently.
