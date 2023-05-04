@@ -35,7 +35,7 @@ each young oyster on each string and then returned them to the sites. All data
 was recorded in a series of excel documents. Excel data was wrangled in Rstudio, averages were taken to account for replicates and spat measurements and water quality data were merged.
 ## Results
 
-![graph one](Settlement_by_Chl.png)
+![graph one](Output/Settlement_by_Chl.png)
 ![graph two](Settlement_by_DO.png)
 ![graph three](Settlement_by_Sal.png)
 ![graph four](Settlement_by_Temp.png)
