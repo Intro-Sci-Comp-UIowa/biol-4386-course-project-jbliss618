@@ -36,9 +36,9 @@ was recorded in a series of excel documents. Excel data was wrangled in Rstudio,
 ## Results
 
 ![graph one](Output/Settlement_by_Chl.png)
-![graph two](Settlement_by_DO.png)
-![graph three](Settlement_by_Sal.png)
-![graph four](Settlement_by_Temp.png)
+![graph two](Output/Settlement_by_DO.png)
+![graph three](Output/Settlement_by_Sal.png)
+![graph four](Output/Settlement_by_Temp.png)
 Each graph plots the amount of spat counted at each site by one of the four water variables. Size of the dots reflects the average size of the spat.
 ## Discussion/Conclusions
 The data shows the following general trends:
